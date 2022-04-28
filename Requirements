@@ -36,3 +36,7 @@ if st.button("Download"):
     with st_lottie_spinner(lottie_download, key="download"):
         time.sleep(5)
     st.balloons()
+    
+    lottie.version = '5.9.2';
+  lottie.version = '5.9.3';
+
