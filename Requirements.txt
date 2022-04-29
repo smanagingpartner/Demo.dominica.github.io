@@ -1,3 +1,5 @@
+requirements.txt	pip	docs
+
 setuptools.setup(
     name="streamlit-lottie",
     version="0.0.3",
