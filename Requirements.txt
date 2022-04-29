@@ -1,5 +1,22 @@
 requirements.txt	pip	docs
 
+import json
+
+from PIL import Image
+import requests
+import streamlit as st
+from streamlit_lottie import st_lottie
+from streamlit_lottie import st_lottie_spinner
+
+
+
+
+
+
+
+
+
+
 setuptools.setup(
     name="streamlit-lottie",
     version="0.0.3",
